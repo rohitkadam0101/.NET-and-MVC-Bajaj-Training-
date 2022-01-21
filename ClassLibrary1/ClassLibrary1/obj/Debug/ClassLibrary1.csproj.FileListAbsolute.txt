@@ -1,0 +1,6 @@
+E:\Bajaj\C#\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Bajaj\C#\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Bajaj\C#\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+E:\Bajaj\C#\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Bajaj\C#\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Bajaj\C#\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

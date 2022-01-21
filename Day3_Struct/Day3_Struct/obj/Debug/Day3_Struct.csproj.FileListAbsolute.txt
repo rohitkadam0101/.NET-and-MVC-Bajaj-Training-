@@ -1,0 +1,8 @@
+E:\Bajaj\C#\Day3_Struct\Day3_Struct\bin\Debug\Day3_Struct.exe.config
+E:\Bajaj\C#\Day3_Struct\Day3_Struct\bin\Debug\Day3_Struct.exe
+E:\Bajaj\C#\Day3_Struct\Day3_Struct\bin\Debug\Day3_Struct.pdb
+E:\Bajaj\C#\Day3_Struct\Day3_Struct\obj\Debug\Day3_Struct.csproj.AssemblyReference.cache
+E:\Bajaj\C#\Day3_Struct\Day3_Struct\obj\Debug\Day3_Struct.csproj.SuggestedBindingRedirects.cache
+E:\Bajaj\C#\Day3_Struct\Day3_Struct\obj\Debug\Day3_Struct.csproj.CoreCompileInputs.cache
+E:\Bajaj\C#\Day3_Struct\Day3_Struct\obj\Debug\Day3_Struct.exe
+E:\Bajaj\C#\Day3_Struct\Day3_Struct\obj\Debug\Day3_Struct.pdb

@@ -1,0 +1,8 @@
+E:\Bajaj\C#\tryCatchLab\tryCatchLab\obj\Debug\tryCatchLab.csproj.AssemblyReference.cache
+E:\Bajaj\C#\tryCatchLab\tryCatchLab\obj\Debug\tryCatchLab.csproj.SuggestedBindingRedirects.cache
+E:\Bajaj\C#\tryCatchLab\tryCatchLab\obj\Debug\tryCatchLab.csproj.CoreCompileInputs.cache
+E:\Bajaj\C#\tryCatchLab\tryCatchLab\bin\Debug\tryCatchLab.exe.config
+E:\Bajaj\C#\tryCatchLab\tryCatchLab\bin\Debug\tryCatchLab.exe
+E:\Bajaj\C#\tryCatchLab\tryCatchLab\bin\Debug\tryCatchLab.pdb
+E:\Bajaj\C#\tryCatchLab\tryCatchLab\obj\Debug\tryCatchLab.exe
+E:\Bajaj\C#\tryCatchLab\tryCatchLab\obj\Debug\tryCatchLab.pdb

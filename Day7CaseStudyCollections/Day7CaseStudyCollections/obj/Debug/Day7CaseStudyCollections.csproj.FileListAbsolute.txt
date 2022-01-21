@@ -1,0 +1,8 @@
+E:\Bajaj\C#\Day7CaseStudyCollections\Day7CaseStudyCollections\bin\Debug\Day7CaseStudyCollections.exe.config
+E:\Bajaj\C#\Day7CaseStudyCollections\Day7CaseStudyCollections\bin\Debug\Day7CaseStudyCollections.exe
+E:\Bajaj\C#\Day7CaseStudyCollections\Day7CaseStudyCollections\bin\Debug\Day7CaseStudyCollections.pdb
+E:\Bajaj\C#\Day7CaseStudyCollections\Day7CaseStudyCollections\obj\Debug\Day7CaseStudyCollections.csproj.AssemblyReference.cache
+E:\Bajaj\C#\Day7CaseStudyCollections\Day7CaseStudyCollections\obj\Debug\Day7CaseStudyCollections.csproj.SuggestedBindingRedirects.cache
+E:\Bajaj\C#\Day7CaseStudyCollections\Day7CaseStudyCollections\obj\Debug\Day7CaseStudyCollections.csproj.CoreCompileInputs.cache
+E:\Bajaj\C#\Day7CaseStudyCollections\Day7CaseStudyCollections\obj\Debug\Day7CaseStudyCollections.exe
+E:\Bajaj\C#\Day7CaseStudyCollections\Day7CaseStudyCollections\obj\Debug\Day7CaseStudyCollections.pdb

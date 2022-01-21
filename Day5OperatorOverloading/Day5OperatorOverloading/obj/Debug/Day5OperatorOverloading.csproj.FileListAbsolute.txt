@@ -1,0 +1,8 @@
+E:\Bajaj\C#\Day5OperatorOverloading\Day5OperatorOverloading\bin\Debug\Day5OperatorOverloading.exe.config
+E:\Bajaj\C#\Day5OperatorOverloading\Day5OperatorOverloading\bin\Debug\Day5OperatorOverloading.exe
+E:\Bajaj\C#\Day5OperatorOverloading\Day5OperatorOverloading\bin\Debug\Day5OperatorOverloading.pdb
+E:\Bajaj\C#\Day5OperatorOverloading\Day5OperatorOverloading\obj\Debug\Day5OperatorOverloading.csproj.AssemblyReference.cache
+E:\Bajaj\C#\Day5OperatorOverloading\Day5OperatorOverloading\obj\Debug\Day5OperatorOverloading.csproj.SuggestedBindingRedirects.cache
+E:\Bajaj\C#\Day5OperatorOverloading\Day5OperatorOverloading\obj\Debug\Day5OperatorOverloading.csproj.CoreCompileInputs.cache
+E:\Bajaj\C#\Day5OperatorOverloading\Day5OperatorOverloading\obj\Debug\Day5OperatorOverloading.exe
+E:\Bajaj\C#\Day5OperatorOverloading\Day5OperatorOverloading\obj\Debug\Day5OperatorOverloading.pdb

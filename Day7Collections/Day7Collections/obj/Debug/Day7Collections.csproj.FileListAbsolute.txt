@@ -1,0 +1,8 @@
+E:\Bajaj\C#\Day7Collections\Day7Collections\bin\Debug\Day7Collections.exe.config
+E:\Bajaj\C#\Day7Collections\Day7Collections\bin\Debug\Day7Collections.exe
+E:\Bajaj\C#\Day7Collections\Day7Collections\bin\Debug\Day7Collections.pdb
+E:\Bajaj\C#\Day7Collections\Day7Collections\obj\Debug\Day7Collections.csproj.AssemblyReference.cache
+E:\Bajaj\C#\Day7Collections\Day7Collections\obj\Debug\Day7Collections.csproj.SuggestedBindingRedirects.cache
+E:\Bajaj\C#\Day7Collections\Day7Collections\obj\Debug\Day7Collections.csproj.CoreCompileInputs.cache
+E:\Bajaj\C#\Day7Collections\Day7Collections\obj\Debug\Day7Collections.exe
+E:\Bajaj\C#\Day7Collections\Day7Collections\obj\Debug\Day7Collections.pdb

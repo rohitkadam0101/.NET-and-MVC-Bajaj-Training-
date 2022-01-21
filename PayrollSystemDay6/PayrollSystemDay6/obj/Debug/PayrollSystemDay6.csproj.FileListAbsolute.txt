@@ -1,0 +1,8 @@
+E:\Bajaj\C#\PayrollSystemDay6\PayrollSystemDay6\bin\Debug\PayrollSystemDay6.exe.config
+E:\Bajaj\C#\PayrollSystemDay6\PayrollSystemDay6\bin\Debug\PayrollSystemDay6.exe
+E:\Bajaj\C#\PayrollSystemDay6\PayrollSystemDay6\bin\Debug\PayrollSystemDay6.pdb
+E:\Bajaj\C#\PayrollSystemDay6\PayrollSystemDay6\obj\Debug\PayrollSystemDay6.csproj.AssemblyReference.cache
+E:\Bajaj\C#\PayrollSystemDay6\PayrollSystemDay6\obj\Debug\PayrollSystemDay6.csproj.SuggestedBindingRedirects.cache
+E:\Bajaj\C#\PayrollSystemDay6\PayrollSystemDay6\obj\Debug\PayrollSystemDay6.csproj.CoreCompileInputs.cache
+E:\Bajaj\C#\PayrollSystemDay6\PayrollSystemDay6\obj\Debug\PayrollSystemDay6.exe
+E:\Bajaj\C#\PayrollSystemDay6\PayrollSystemDay6\obj\Debug\PayrollSystemDay6.pdb

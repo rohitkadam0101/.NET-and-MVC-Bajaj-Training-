@@ -1,0 +1,8 @@
+E:\Bajaj\C#\CaseStudy2Day6\CaseStudy2Day6\bin\Debug\CaseStudy2Day6.exe.config
+E:\Bajaj\C#\CaseStudy2Day6\CaseStudy2Day6\bin\Debug\CaseStudy2Day6.exe
+E:\Bajaj\C#\CaseStudy2Day6\CaseStudy2Day6\bin\Debug\CaseStudy2Day6.pdb
+E:\Bajaj\C#\CaseStudy2Day6\CaseStudy2Day6\obj\Debug\CaseStudy2Day6.csproj.AssemblyReference.cache
+E:\Bajaj\C#\CaseStudy2Day6\CaseStudy2Day6\obj\Debug\CaseStudy2Day6.csproj.SuggestedBindingRedirects.cache
+E:\Bajaj\C#\CaseStudy2Day6\CaseStudy2Day6\obj\Debug\CaseStudy2Day6.csproj.CoreCompileInputs.cache
+E:\Bajaj\C#\CaseStudy2Day6\CaseStudy2Day6\obj\Debug\CaseStudy2Day6.exe
+E:\Bajaj\C#\CaseStudy2Day6\CaseStudy2Day6\obj\Debug\CaseStudy2Day6.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5OperatorOverloading", "Day5OperatorOverloading\Day5OperatorOverloading.csproj", "{8D981DEB-D4E2-4E9E-8DA1-B7D25E10582F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D981DEB-D4E2-4E9E-8DA1-B7D25E10582F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D981DEB-D4E2-4E9E-8DA1-B7D25E10582F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D981DEB-D4E2-4E9E-8DA1-B7D25E10582F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D981DEB-D4E2-4E9E-8DA1-B7D25E10582F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41C8C485-D62D-46EF-92DB-502C62753024}
+	EndGlobalSection
+EndGlobal

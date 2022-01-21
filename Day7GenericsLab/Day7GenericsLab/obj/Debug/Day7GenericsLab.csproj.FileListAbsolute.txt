@@ -1,0 +1,8 @@
+E:\Bajaj\C#\Day7GenericsLab\Day7GenericsLab\bin\Debug\Day7GenericsLab.exe.config
+E:\Bajaj\C#\Day7GenericsLab\Day7GenericsLab\bin\Debug\Day7GenericsLab.exe
+E:\Bajaj\C#\Day7GenericsLab\Day7GenericsLab\bin\Debug\Day7GenericsLab.pdb
+E:\Bajaj\C#\Day7GenericsLab\Day7GenericsLab\obj\Debug\Day7GenericsLab.csproj.AssemblyReference.cache
+E:\Bajaj\C#\Day7GenericsLab\Day7GenericsLab\obj\Debug\Day7GenericsLab.csproj.SuggestedBindingRedirects.cache
+E:\Bajaj\C#\Day7GenericsLab\Day7GenericsLab\obj\Debug\Day7GenericsLab.csproj.CoreCompileInputs.cache
+E:\Bajaj\C#\Day7GenericsLab\Day7GenericsLab\obj\Debug\Day7GenericsLab.exe
+E:\Bajaj\C#\Day7GenericsLab\Day7GenericsLab\obj\Debug\Day7GenericsLab.pdb

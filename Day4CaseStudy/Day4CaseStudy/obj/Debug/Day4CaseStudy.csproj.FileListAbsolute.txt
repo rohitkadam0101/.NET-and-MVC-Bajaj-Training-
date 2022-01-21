@@ -1,0 +1,8 @@
+E:\Bajaj\C#\Day4CaseStudy\Day4CaseStudy\bin\Debug\Day4CaseStudy.exe.config
+E:\Bajaj\C#\Day4CaseStudy\Day4CaseStudy\bin\Debug\Day4CaseStudy.exe
+E:\Bajaj\C#\Day4CaseStudy\Day4CaseStudy\bin\Debug\Day4CaseStudy.pdb
+E:\Bajaj\C#\Day4CaseStudy\Day4CaseStudy\obj\Debug\Day4CaseStudy.csproj.AssemblyReference.cache
+E:\Bajaj\C#\Day4CaseStudy\Day4CaseStudy\obj\Debug\Day4CaseStudy.csproj.SuggestedBindingRedirects.cache
+E:\Bajaj\C#\Day4CaseStudy\Day4CaseStudy\obj\Debug\Day4CaseStudy.csproj.CoreCompileInputs.cache
+E:\Bajaj\C#\Day4CaseStudy\Day4CaseStudy\obj\Debug\Day4CaseStudy.exe
+E:\Bajaj\C#\Day4CaseStudy\Day4CaseStudy\obj\Debug\Day4CaseStudy.pdb

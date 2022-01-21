@@ -1,0 +1,8 @@
+E:\Bajaj\C#\Day2\Day2\bin\Debug\Day2.exe.config
+E:\Bajaj\C#\Day2\Day2\bin\Debug\Day2.exe
+E:\Bajaj\C#\Day2\Day2\bin\Debug\Day2.pdb
+E:\Bajaj\C#\Day2\Day2\obj\Debug\Day2.csproj.AssemblyReference.cache
+E:\Bajaj\C#\Day2\Day2\obj\Debug\Day2.csproj.SuggestedBindingRedirects.cache
+E:\Bajaj\C#\Day2\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+E:\Bajaj\C#\Day2\Day2\obj\Debug\Day2.exe
+E:\Bajaj\C#\Day2\Day2\obj\Debug\Day2.pdb

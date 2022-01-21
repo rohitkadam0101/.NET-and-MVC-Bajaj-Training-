@@ -1,0 +1,15 @@
+E:\Bajaj\C#\DayTwo_2\DayTwo_2\bin\Debug\net6.0\DayTwo_2.exe
+E:\Bajaj\C#\DayTwo_2\DayTwo_2\bin\Debug\net6.0\DayTwo_2.deps.json
+E:\Bajaj\C#\DayTwo_2\DayTwo_2\bin\Debug\net6.0\DayTwo_2.runtimeconfig.json
+E:\Bajaj\C#\DayTwo_2\DayTwo_2\bin\Debug\net6.0\DayTwo_2.dll
+E:\Bajaj\C#\DayTwo_2\DayTwo_2\bin\Debug\net6.0\ref\DayTwo_2.dll
+E:\Bajaj\C#\DayTwo_2\DayTwo_2\bin\Debug\net6.0\DayTwo_2.pdb
+E:\Bajaj\C#\DayTwo_2\DayTwo_2\obj\Debug\net6.0\DayTwo_2.csproj.AssemblyReference.cache
+E:\Bajaj\C#\DayTwo_2\DayTwo_2\obj\Debug\net6.0\DayTwo_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bajaj\C#\DayTwo_2\DayTwo_2\obj\Debug\net6.0\DayTwo_2.AssemblyInfoInputs.cache
+E:\Bajaj\C#\DayTwo_2\DayTwo_2\obj\Debug\net6.0\DayTwo_2.AssemblyInfo.cs
+E:\Bajaj\C#\DayTwo_2\DayTwo_2\obj\Debug\net6.0\DayTwo_2.csproj.CoreCompileInputs.cache
+E:\Bajaj\C#\DayTwo_2\DayTwo_2\obj\Debug\net6.0\DayTwo_2.dll
+E:\Bajaj\C#\DayTwo_2\DayTwo_2\obj\Debug\net6.0\ref\DayTwo_2.dll
+E:\Bajaj\C#\DayTwo_2\DayTwo_2\obj\Debug\net6.0\DayTwo_2.pdb
+E:\Bajaj\C#\DayTwo_2\DayTwo_2\obj\Debug\net6.0\DayTwo_2.genruntimeconfig.cache
