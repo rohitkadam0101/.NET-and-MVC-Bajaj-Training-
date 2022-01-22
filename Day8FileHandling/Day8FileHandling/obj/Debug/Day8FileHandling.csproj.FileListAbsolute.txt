@@ -1,0 +1,8 @@
+E:\Bajaj\C#\Day8FileHandling\Day8FileHandling\bin\Debug\Day8FileHandling.exe.config
+E:\Bajaj\C#\Day8FileHandling\Day8FileHandling\bin\Debug\Day8FileHandling.exe
+E:\Bajaj\C#\Day8FileHandling\Day8FileHandling\bin\Debug\Day8FileHandling.pdb
+E:\Bajaj\C#\Day8FileHandling\Day8FileHandling\obj\Debug\Day8FileHandling.csproj.AssemblyReference.cache
+E:\Bajaj\C#\Day8FileHandling\Day8FileHandling\obj\Debug\Day8FileHandling.csproj.SuggestedBindingRedirects.cache
+E:\Bajaj\C#\Day8FileHandling\Day8FileHandling\obj\Debug\Day8FileHandling.csproj.CoreCompileInputs.cache
+E:\Bajaj\C#\Day8FileHandling\Day8FileHandling\obj\Debug\Day8FileHandling.exe
+E:\Bajaj\C#\Day8FileHandling\Day8FileHandling\obj\Debug\Day8FileHandling.pdb

@@ -1,0 +1,8 @@
+E:\Bajaj\C#\Day8SerializableExample\Day8SerializableExample\bin\Debug\Day8SerializableExample.exe.config
+E:\Bajaj\C#\Day8SerializableExample\Day8SerializableExample\bin\Debug\Day8SerializableExample.exe
+E:\Bajaj\C#\Day8SerializableExample\Day8SerializableExample\bin\Debug\Day8SerializableExample.pdb
+E:\Bajaj\C#\Day8SerializableExample\Day8SerializableExample\obj\Debug\Day8SerializableExample.csproj.AssemblyReference.cache
+E:\Bajaj\C#\Day8SerializableExample\Day8SerializableExample\obj\Debug\Day8SerializableExample.csproj.SuggestedBindingRedirects.cache
+E:\Bajaj\C#\Day8SerializableExample\Day8SerializableExample\obj\Debug\Day8SerializableExample.csproj.CoreCompileInputs.cache
+E:\Bajaj\C#\Day8SerializableExample\Day8SerializableExample\obj\Debug\Day8SerializableExample.exe
+E:\Bajaj\C#\Day8SerializableExample\Day8SerializableExample\obj\Debug\Day8SerializableExample.pdb

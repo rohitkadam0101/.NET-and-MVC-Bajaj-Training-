@@ -1,0 +1,8 @@
+E:\Bajaj\C#\Day8SystemIOLab\Day8SystemIOLab\bin\Debug\Day8SystemIOLab.exe.config
+E:\Bajaj\C#\Day8SystemIOLab\Day8SystemIOLab\bin\Debug\Day8SystemIOLab.exe
+E:\Bajaj\C#\Day8SystemIOLab\Day8SystemIOLab\bin\Debug\Day8SystemIOLab.pdb
+E:\Bajaj\C#\Day8SystemIOLab\Day8SystemIOLab\obj\Debug\Day8SystemIOLab.csproj.AssemblyReference.cache
+E:\Bajaj\C#\Day8SystemIOLab\Day8SystemIOLab\obj\Debug\Day8SystemIOLab.csproj.SuggestedBindingRedirects.cache
+E:\Bajaj\C#\Day8SystemIOLab\Day8SystemIOLab\obj\Debug\Day8SystemIOLab.csproj.CoreCompileInputs.cache
+E:\Bajaj\C#\Day8SystemIOLab\Day8SystemIOLab\obj\Debug\Day8SystemIOLab.exe
+E:\Bajaj\C#\Day8SystemIOLab\Day8SystemIOLab\obj\Debug\Day8SystemIOLab.pdb

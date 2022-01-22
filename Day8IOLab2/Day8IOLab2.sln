@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day8IOLab2", "Day8IOLab2\Day8IOLab2.csproj", "{51BA9420-58C4-4F6D-BE30-9A057F75AB74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51BA9420-58C4-4F6D-BE30-9A057F75AB74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51BA9420-58C4-4F6D-BE30-9A057F75AB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51BA9420-58C4-4F6D-BE30-9A057F75AB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51BA9420-58C4-4F6D-BE30-9A057F75AB74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {253EF314-571F-4A83-938B-2C4707A9DD5C}
+	EndGlobalSection
+EndGlobal
