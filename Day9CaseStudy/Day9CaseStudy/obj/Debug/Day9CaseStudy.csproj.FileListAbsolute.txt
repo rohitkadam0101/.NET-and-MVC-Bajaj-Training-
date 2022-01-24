@@ -1,0 +1,8 @@
+E:\Bajaj\C#\Day9CaseStudy\Day9CaseStudy\bin\Debug\Day9CaseStudy.exe.config
+E:\Bajaj\C#\Day9CaseStudy\Day9CaseStudy\bin\Debug\Day9CaseStudy.exe
+E:\Bajaj\C#\Day9CaseStudy\Day9CaseStudy\bin\Debug\Day9CaseStudy.pdb
+E:\Bajaj\C#\Day9CaseStudy\Day9CaseStudy\obj\Debug\Day9CaseStudy.csproj.AssemblyReference.cache
+E:\Bajaj\C#\Day9CaseStudy\Day9CaseStudy\obj\Debug\Day9CaseStudy.csproj.SuggestedBindingRedirects.cache
+E:\Bajaj\C#\Day9CaseStudy\Day9CaseStudy\obj\Debug\Day9CaseStudy.csproj.CoreCompileInputs.cache
+E:\Bajaj\C#\Day9CaseStudy\Day9CaseStudy\obj\Debug\Day9CaseStudy.exe
+E:\Bajaj\C#\Day9CaseStudy\Day9CaseStudy\obj\Debug\Day9CaseStudy.pdb
